@@ -33,7 +33,7 @@ RDEPEND="dev-python/pysqlite:2
 	rar? ( app-arch/unrar )
 	zip? ( app-arch/unzip )
 	rss? ( dev-python/feedparser )
-	yenc? ( dev-python/python-yenc )
+	yenc? ( dev-python/yenc )
 	ssl? ( dev-python/pyopenssl )"
 DEPEND="${RDEPEND}
 	app-text/dos2unix"
